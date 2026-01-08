@@ -12,7 +12,6 @@ I am a **Computer Engineer** graduated from **UNAM (FES Aragón)** with 100% of 
 - [cite_start]💞️ **I’m looking to collaborate on:** - Open-source projects involving API integrations (like WhatsApp/Whapi)[cite: 26, 118].
   - [cite_start]Tooling for geospatial data visualization (KML/KMZ)[cite: 17, 18].
 
-- 📫 **How to reach me:** - Email: eduperezferia@gmail.com.
-  - LinkedIn: [Enlace a tu perfil]
+- 📫 **How to reach me:** - Email: eduperezferia@gmail.com
 
 - [cite_start]⚡ **Fun fact:** - I developed a notification system for the National Seismological Service (SSN) in Mexico that automates alerts via WhatsApp![cite: 26, 27].
